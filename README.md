@@ -9,7 +9,7 @@ This repository contains a dataset collected from the movie piracy site [YTS](ht
 - **Encoding:** UTF-8
   
 ## Web Crawler
-**Repo** - [YTS_Data_Crawler](https://github.com/Sevinda-Herath/yts_data_crawler)
+- **Repo** - [YTS_Data_Crawler](https://github.com/Sevinda-Herath/yts_data_crawler)
 
 ## Repo File Structure
 
@@ -50,16 +50,16 @@ This combined dataset is ready for analysis, machine learning, or any other data
 - **YTS_Likes:** Number of likes the movie received on YTS
 
 ### Columns in Processed Dataset
-- **Title:** Movie title
-- **Director:** Director(s) of the movie
-- **Year:** Release year
-- **Duration:** Duration (e.g., "1hr 36min")
-- **IMDb Rating:** IMDb rating
-- **Votes:** Number of IMDb votes
-- **Metascore:** Metascore rating from Metacritic
-- **Uploader:** Username of the uploader
-- **Upload Date:** Date the movie was uploaded
-- **URL:** Link to the movie page on YTS
+- **Movie_Title:** Movie title
+- **Movie_Director:** Director(s) of the movie
+- **Released_Year:** Release year
+- **Runtime:** Duration (e.g., "1hr36min")
+- **IMDb_Rating:** IMDb rating
+- **IMDb_Votes:** Number of IMDb votes
+- **YTS_Likes:** Number of likes received on YTS
+- **Uploader:** Uploader's username
+- **Uploaded_Time:** Date of upload
+- **URL:** Movie page link
 - **Genres:** List of associated genres
 
 #### Genre Indicators
