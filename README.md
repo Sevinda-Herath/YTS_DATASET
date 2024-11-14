@@ -58,6 +58,7 @@ This combined dataset is ready for analysis, machine learning, or any other data
 - **IMDb_Votes:** Number of IMDb votes
 - **YTS_Likes:** Number of likes received on YTS
 - **Uploader:** Uploader's username
+- **Seeds:** Number of available seeds for the movie
 - **Uploaded_Time:** Date of upload
 - **URL:** Movie page link
 - **Genres:** List of associated genres
